@@ -1,0 +1,43 @@
+Homepage.html
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport"
+content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="resume.css">
+</head>
+<body>
+<div class="full">
+<div class="left">
+<div class="image">
+<img src="C:\Users\Admin\Documents\IBM Assignment\image\WhatsApp Image
+2022-09-15 at 4.15.26 AM.jpeg" alt="gfg-logo"
+style="width:100px;height:100px;">
+</div>
+<div class="Contact">
+<h2><u>Contact:</u></h2><br>
+<p><b>Mobile no :</b>9963427133</p>
+<p><b>Email id:</b>sumathi4066@gmail.com</p>
+</div>
+<div class="Skills">
+<h2><u>Skills:</u></h2><br>
+<ul>
+<li><b>Programming Languages :</b></li>
+Java,python
+<li><b>Frontend :</b><br> HTML, CSS,
+JavaScript</li>
+</ul>
+</div>
+<div class="Language">
+<h2><u>Language:</u></h2><br>
+<ul>
+<li>Telugu</li>
+<li>English</li>
+<li>Hindi</li>
+<li>Tamil</li>
+</ul>
+</div>
+<div class="Hobbies">
+<h2><u>Hobbies:</u></h2><br>
+<ul>
