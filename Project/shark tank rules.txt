@@ -1,0 +1,18 @@
+EVENT NAME: SHARK TANK(Project Expo)
+
+COORDINATORS:
+Valliappan
+Arvind
+Pukkalla Sumathi
+Aarthi
+
+RULES:
+1.It should be Team/Individual participant.
+2.Maximum 4 members in the team allowed.
+3.The project should be software simulation and should be related to science and technology.
+4.Participants should bring all requirements to execute their projects.
+5.The project for competition must be displayed and presented with an effective power point presentation.
+
+*only one round will be conducted.
+*The decision of the judges shall be treated as final and binding.
+
